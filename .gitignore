@@ -1,0 +1,3 @@
+B/mnist_data 
+__pycache__
+*_weights.npz
